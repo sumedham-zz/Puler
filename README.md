@@ -4,6 +4,8 @@
 
 **püler** is an iOS Swift application that allows users to easily split gas costs and carpool. Good for the environment, good for your bank account.
 
+*Please email me at sumedha.mehta@gmail.com to see entire source code or go to [this repo](https://github.com/MariamSulakian/puler).* 
+
 ## User Stories
 
 The following functionality is complete:
